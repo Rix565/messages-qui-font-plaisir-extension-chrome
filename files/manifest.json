@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"name": "Messages qui font plaisir",
+	"description": "Cet extension te permet que si tu cliques dessus cela t'ouvre une fenêtre avec un message qui fait plaisir !",
+	"version": "1.0",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "main.html"
+	}
+}
